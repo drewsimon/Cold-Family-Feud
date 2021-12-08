@@ -278,9 +278,9 @@ export default function TitleNoInsert(props) {
          transform="matrix(1.6142467,-0.12183177,0.12183177,1.6142467,-182.95457,-52.831025)"
          x="89.712639"
          y="0"><tspan
-           x="78.793917"
+           x="99.793917"
            y="150.57788"><tspan
-             style="">${t("family")}</tspan></tspan></text>
+             style="">${t("OMG")}</tspan></tspan></text>
       <text
          xml:space="preserve"
          id="text3047"
@@ -301,9 +301,9 @@ export default function TitleNoInsert(props) {
            transform="matrix(1.6142467,-0.12183177,0.12183177,1.6142467,-186.39881,-54.542279)"
            x="89.712639"
            y="0"><tspan
-             x="78.793917"
+             x="99.793917"
              y="150.57788"><tspan
-               style="">${t("family")}</tspan></tspan></text>
+               style="">${t("OMG")}</tspan></tspan></text>
         <text
            xml:space="preserve"
            id="text911"
