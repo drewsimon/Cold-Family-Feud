@@ -4,18 +4,8 @@
       "question": "What's something that you need to do your job?",
       "answers": [
         {
-          "ans": "Software/Linux",
-          "pnt": 5,
-          "trig": false
-        },
-        {
-          "ans": "Internet/Wifi",
-          "pnt": 9,
-          "trig": false
-        },
-        {
-          "ans": "Team",
-          "pnt": 15,
+          "ans": "Computer",
+          "pnt": 54,
           "trig": false
         },
         {
@@ -24,8 +14,18 @@
           "trig": false
         },
         {
-          "ans": "Computer",
-          "pnt": 54,
+          "ans": "Team",
+          "pnt": 15,
+          "trig": false
+        },
+        {
+          "ans": "Internet/Wifi",
+          "pnt": 9,
+          "trig": false
+        },
+        {
+          "ans": "Software/Linux",
+          "pnt": 5,
           "trig": false
         }
       ],
@@ -35,13 +35,8 @@
       "question": "What is something unique that you have seen on an OMG store?",
       "answers": [
         {
-          "ans": "Manure/Garden Supplies",
-          "pnt": 13,
-          "trig": false
-        },
-        {
-          "ans": "Baby Clothes",
-          "pnt": 20,
+          "ans": "Dog Toys and Clothes",
+          "pnt": 40,
           "trig": false
         },
         {
@@ -50,8 +45,13 @@
           "trig": false
         },
         {
-          "ans": "Dog Toys and Clothes",
-          "pnt": 40,
+          "ans": "Baby Clothes",
+          "pnt": 20,
+          "trig": false
+        },
+        {
+          "ans": "Manure/Garden Supplies",
+          "pnt": 13,
           "trig": false
         }
       ],
@@ -61,18 +61,8 @@
       "question": "What is something an OMG’er might do at Fair Day?",
       "answers": [
         {
-          "ans": "Go On a Ride",
-          "pnt": 4,
-          "trig": false
-        },
-        {
-          "ans": "Play Games",
-          "pnt": 7,
-          "trig": false
-        },
-        {
-          "ans": "Take a Picture with Big Tex",
-          "pnt": 11,
+          "ans": "Eat Fried Food",
+          "pnt": 40,
           "trig": false
         },
         {
@@ -81,8 +71,18 @@
           "trig": false
         },
         {
-          "ans": "Eat Fried Food",
-          "pnt": 40,
+          "ans": "Take a Picture with Big Tex",
+          "pnt": 11,
+          "trig": false
+        },
+        {
+          "ans": "Play Games",
+          "pnt": 7,
+          "trig": false
+        },
+        {
+          "ans": "Go On a Ride",
+          "pnt": 4,
           "trig": false
         }
       ],
@@ -92,13 +92,13 @@
       "question": "What is your favorite part of OMG?",
       "answers": [
         {
-          "ans": "Magic",
-          "pnt": 30,
+          "ans": "People",
+          "pnt": 70,
           "trig": false
         },
         {
-          "ans": "People",
-          "pnt": 70,
+          "ans": "Magic",
+          "pnt": 30,
           "trig": false
         }
       ],
