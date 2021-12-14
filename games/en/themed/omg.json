@@ -1,0 +1,167 @@
+{
+  "rounds": [
+    {
+      "question": "What's something that you need to do your job?",
+      "answers": [
+        {
+          "ans": "Software/Linux",
+          "pnt": 5,
+          "trig": false
+        },
+        {
+          "ans": "Internet/Wifi",
+          "pnt": 9,
+          "trig": false
+        },
+        {
+          "ans": "Team",
+          "pnt": 15,
+          "trig": false
+        },
+        {
+          "ans": "Peripherials",
+          "pnt": 17,
+          "trig": false
+        },
+        {
+          "ans": "Computer",
+          "pnt": 54,
+          "trig": false
+        }
+      ],
+      "multiply": 1
+    },
+    {
+      "question": "What is something unique that you have seen on an OMG store?",
+      "answers": [
+        {
+          "ans": "Manure/Garden Supplies",
+          "pnt": 13,
+          "trig": false
+        },
+        {
+          "ans": "Baby Clothes",
+          "pnt": 20,
+          "trig": false
+        },
+        {
+          "ans": "Food/Food Baskets",
+          "pnt": 27,
+          "trig": false
+        },
+        {
+          "ans": "Dog Toys and Clothes",
+          "pnt": 40,
+          "trig": false
+        }
+      ],
+      "multiply": 1
+    },
+    {
+      "question": "What is something an OMG’er might do at Fair Day?",
+      "answers": [
+        {
+          "ans": "Go On a Ride",
+          "pnt": 4,
+          "trig": false
+        },
+        {
+          "ans": "Play Games",
+          "pnt": 7,
+          "trig": false
+        },
+        {
+          "ans": "Take a Picture with Big Tex",
+          "pnt": 11,
+          "trig": false
+        },
+        {
+          "ans": "Drink a Beer",
+          "pnt": 38,
+          "trig": false
+        },
+        {
+          "ans": "Eat Fried Food",
+          "pnt": 40,
+          "trig": false
+        }
+      ],
+      "multiply": 1
+    },
+    {
+      "question": "What is your favorite part of OMG?",
+      "answers": [
+        {
+          "ans": "Magic",
+          "pnt": 30,
+          "trig": false
+        },
+        {
+          "ans": "People",
+          "pnt": 70,
+          "trig": false
+        }
+      ],
+      "multiply": 1
+    }
+  ],
+  "final_round": [
+    {
+      "question": "Name a reason you might look for a new job",
+      "answers": [
+        ["More pay", 41],
+        ["New Technologies", 27],
+        ["Promotion/Opportunities", 17],
+        ["Work/Life Balance", 11],
+        ["Trouble with management", 7]
+      ],
+      "selection": 0,
+      "points": 0,
+      "input": "",
+      "revealed": false
+    },
+    {
+      "question": "When is the most popular time to go to bed for a programmer",
+      "answers": [
+        ["11 PM", 39],
+        ["Never/What is sleep?", 25],
+        ["1 AM", 16],
+        ["2AM", 11],
+        ["10PM", 7]
+      ],
+      "selection": 0,
+      "points": 0,
+      "input": "",
+      "revealed": false
+    },
+    {
+      "question": "Name something people associate with a nerd",
+      "answers": [
+        ["Glasses", 42],
+        ["Technology", 29],
+        ["Pocket Protector", 19],
+        ["Smart", 12],
+        ["Short Pants", 8]
+      ],
+      "selection": 0,
+      "points": 0,
+      "input": "",
+      "revealed": false
+    },
+    {
+      "question": "Name a computer term that everybody knows",
+      "answers": [
+        ["Mouse", 72],
+        ["Internet", 47],
+        ["Download", 31],
+        ["RAM", 20],
+        ["Keyboard", 13]
+      ],
+      "selection": 0,
+      "points": 0,
+      "input": "",
+      "revealed": false
+    }
+  ],
+  "final_round_timers": [20, 25]
+}
